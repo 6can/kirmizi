@@ -218,6 +218,6 @@ real-time path uses, and only for clips with nothing drawn over them.
 
 ## License
 
-[MIT](./LICENSE) — Copyright © 2026 canbedir.
+[MIT](./LICENSE) — Copyright © 2026 6can.
 
 The code is MIT; the Kırmızı mark and wordmark are not.

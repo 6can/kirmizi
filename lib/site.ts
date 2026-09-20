@@ -18,7 +18,7 @@ export const siteConfig = {
   description:
     "Record your screen, edit it, and download or share it — all in your browser.",
   author: "hix",
-  githubUrl: "https://github.com/canbedir/kirmizi",
+  githubUrl: "https://github.com/6can/kirmizi",
   /**
    * The companion extension's store listing. Empty falls back to the source
    * on GitHub, so nothing points at a dead end if the listing ever goes.

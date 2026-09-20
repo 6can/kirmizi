@@ -159,7 +159,7 @@ export default function PrivacyPage() {
                   href={siteConfig.githubUrl}
                   className="text-red underline underline-offset-4 hover:text-red-hover"
                 >
-                  github.com/canbedir/kirmizi
+                  github.com/6can/kirmizi
                 </a>
               </p>
             </Section>
